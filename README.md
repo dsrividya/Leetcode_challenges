@@ -38,9 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0189-rotate-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
