@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0189-rotate-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0202-happy-number) |
 ## Two Pointers
