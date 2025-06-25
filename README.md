@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0189-rotate-array) |
+| [0414-third-maximum-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0414-third-maximum-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
