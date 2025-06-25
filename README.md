@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0747-min-cost-climbing-stairs) |
 | [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
 | [0932-monotonic-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0932-monotonic-array) |
+| [0941-sort-array-by-parity](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0941-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
+| [0941-sort-array-by-parity](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0953-reverse-only-letters) |
 ## Recursion
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0414-third-maximum-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0941-sort-array-by-parity](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0941-sort-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
