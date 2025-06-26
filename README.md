@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
 | [0932-monotonic-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0941-sort-array-by-parity) |
+| [1044-find-common-characters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1044-find-common-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
+| [1044-find-common-characters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1044-find-common-characters) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0415-add-strings) |
 | [0953-reverse-only-letters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0953-reverse-only-letters) |
+| [1044-find-common-characters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1044-find-common-characters) |
 ## Counting
 |  |
 | ------- |
