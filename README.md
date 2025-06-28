@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0747-min-cost-climbing-stairs) |
 | [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
 | [0932-monotonic-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0932-monotonic-array) |
