@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0747-min-cost-climbing-stairs) |
+| [0841-shortest-distance-to-a-character](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
 | [0932-monotonic-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0941-sort-array-by-parity) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0392-is-subsequence) |
+| [0841-shortest-distance-to-a-character](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0953-reverse-only-letters) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0415-add-strings) |
+| [0841-shortest-distance-to-a-character](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1044-find-common-characters) |
 ## Counting
