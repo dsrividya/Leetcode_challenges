@@ -7,20 +7,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0144-binary-tree-preorder-traversal) |
 ## Array
 |  |
