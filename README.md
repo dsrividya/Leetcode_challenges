@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0231-power-of-two) |
 | [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
 ## Math
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0415-add-strings) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
