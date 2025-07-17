@@ -1,15 +1,16 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
+        ArrayList<Integer> al= new ArrayList<Integer>();
         for(int i=0;i<nums.length;i++)
         {
-            for(int j=i+1;j<nums.length;j++)
+            int c= target-nums[i];
+            if(al.contains(c))
             {
-                if(nums[i]+nums[j]==target)
-                {
-                    return new int[]{i,j};
-                }
+                return new int[]{al.indexOf(c),i};
             }
+            al.add(nums[i]);
+           
         }
-        return new int[]{-1,-1};
-    }
+       return new int[]{-1,-1};  
+}
 }
