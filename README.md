@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0747-min-cost-climbing-stairs) |
 | [0841-shortest-distance-to-a-character](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0287-find-the-duplicate-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
