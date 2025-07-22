@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0628-maximum-product-of-three-numbers) |
