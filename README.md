@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1894-merge-strings-alternately) |
 ## Recursion
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1044-find-common-characters) |
+| [1894-merge-strings-alternately](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1894-merge-strings-alternately) |
 ## Counting
 |  |
 | ------- |
