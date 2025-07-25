@@ -1,8 +1,5 @@
-# https-github.com-dsrividya-simplecodes
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
+
 ## Tree
 |  |
 | ------- |
@@ -232,29 +229,3 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0783-search-in-a-binary-search-tree) |
-## Enumeration
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0204-count-primes) |
-## Number Theory
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0204-count-primes) |
-| [0258-add-digits](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0258-add-digits) |
-## String Matching
-|  |
-| ------- |
-| [0572-subtree-of-another-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0572-subtree-of-another-tree) |
-## Hash Function
-|  |
-| ------- |
-| [0572-subtree-of-another-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0572-subtree-of-another-tree) |
-## Brainteaser
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0292-nim-game) |
-## Game Theory
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0292-nim-game) |
-<!---LeetCode Topics End-->
