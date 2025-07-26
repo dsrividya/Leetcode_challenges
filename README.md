@@ -155,13 +155,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
 | [1044-find-common-characters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1044-find-common-characters) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0020-valid-parentheses) |
-| [0144-binary-tree-preorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0145-binary-tree-postorder-traversal) |
-| [0234-palindrome-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0234-palindrome-linked-list) |
+
 ## String
 |  |
 | ------- |
@@ -260,4 +254,29 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dsrividya/Leetcode_challenges/tree/master/0020-valid-parentheses) |
+| [0020-valid-parentheses](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0205-isomorphic-strings) |
+| [0345-reverse-vowels-of-a-string](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0434-number-of-segments-in-a-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0841-shortest-distance-to-a-character) |
+| [0953-reverse-only-letters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0953-reverse-only-letters) |
+| [1044-find-common-characters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1044-find-common-characters) |
+| [1894-merge-strings-alternately](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1894-merge-strings-alternately) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dsrividya/Leetcode_challenges/tree/master/0020-valid-parentheses) |
+| [0020-valid-parentheses](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
