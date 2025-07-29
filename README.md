@@ -105,15 +105,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1894-merge-strings-alternately) |
 
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0002-add-two-numbers) |
-| [0061-rotate-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0061-rotate-list) |
-| [0141-linked-list-cycle](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0141-linked-list-cycle) |
-| [0160-intersection-of-two-linked-lists](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0160-intersection-of-two-linked-lists) |
-| [0234-palindrome-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0234-palindrome-linked-list) |
-| [0908-middle-of-the-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0908-middle-of-the-linked-list) |
+
 
 
 
@@ -250,6 +242,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0747-min-cost-climbing-stairs) |
+| [0816-design-hashset](https://github.com/dsrividya/Leetcode_challenges/tree/master/0816-design-hashset) |
 | [0841-shortest-distance-to-a-character](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
 | [0932-monotonic-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0932-monotonic-array) |
@@ -268,9 +261,28 @@
 | [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/dsrividya/Leetcode_challenges/tree/master/0409-longest-palindrome) |
+| [0816-design-hashset](https://github.com/dsrividya/Leetcode_challenges/tree/master/0816-design-hashset) |
 | [1044-find-common-characters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1044-find-common-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/dsrividya/Leetcode_challenges/tree/master/0409-longest-palindrome) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0234-palindrome-linked-list) |
+| [0816-design-hashset](https://github.com/dsrividya/Leetcode_challenges/tree/master/0816-design-hashset) |
+| [0908-middle-of-the-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0908-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/dsrividya/Leetcode_challenges/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/dsrividya/Leetcode_challenges/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
