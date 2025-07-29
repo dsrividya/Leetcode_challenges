@@ -64,25 +64,7 @@
 | [0231-power-of-two](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0002-add-two-numbers) |
-| [0009-palindrome-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0009-palindrome-number) |
-| [0050-powx-n](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0050-powx-n) |
-| [0066-plus-one](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0066-plus-one) |
-| [0189-rotate-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0189-rotate-array) |
-| [0202-happy-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0202-happy-number) |
-| [0204-count-primes](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0204-count-primes) |
-| [0231-power-of-two](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0231-power-of-two) |
-| [0258-add-digits](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0258-add-digits) |
-| [0263-ugly-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0263-ugly-number) |
-| [0292-nim-game](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0292-nim-game) |
-| [0326-power-of-three](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0326-power-of-three) |
-| [0367-valid-perfect-square](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0367-valid-perfect-square) |
-| [0412-fizz-buzz](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0412-fizz-buzz) |
-| [0415-add-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0415-add-strings) |
-| [0628-maximum-product-of-three-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0628-maximum-product-of-three-numbers) |
+
 ## Two Pointers
 |  |
 | ------- |
