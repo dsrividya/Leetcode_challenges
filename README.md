@@ -13,16 +13,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0783-search-in-a-binary-search-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0100-same-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0100-same-tree) |
-| [0112-path-sum](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0112-path-sum) |
-| [0144-binary-tree-preorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0145-binary-tree-postorder-traversal) |
-| [0226-invert-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0226-invert-binary-tree) |
-| [0543-diameter-of-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0543-diameter-of-binary-tree) |
-| [0572-subtree-of-another-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0572-subtree-of-another-tree) |
+
 ## Breadth-First Search
 |  |
 | ------- |
