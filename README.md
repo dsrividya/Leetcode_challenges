@@ -29,19 +29,7 @@
 | [0100-same-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0226-invert-binary-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0100-same-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0100-same-tree) |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0112-path-sum](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0112-path-sum) |
-| [0144-binary-tree-preorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0145-binary-tree-postorder-traversal) |
-| [0222-count-complete-tree-nodes](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0222-count-complete-tree-nodes) |
-| [0226-invert-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0226-invert-binary-tree) |
-| [0543-diameter-of-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0543-diameter-of-binary-tree) |
-| [0572-subtree-of-another-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0572-subtree-of-another-tree) |
-| [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0783-search-in-a-binary-search-tree) |
+
 
 ## Binary Search
 |  |
@@ -196,6 +184,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/dsrividya/Leetcode_challenges/tree/master/0020-valid-parentheses) |
 | [0020-valid-parentheses](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/dsrividya/Leetcode_challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0234-palindrome-linked-list) |
@@ -267,4 +256,43 @@
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/dsrividya/Leetcode_challenges/tree/master/0816-design-hashset) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dsrividya/Leetcode_challenges/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0572-subtree-of-another-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0783-search-in-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dsrividya/Leetcode_challenges/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dsrividya/Leetcode_challenges/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0572-subtree-of-another-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
