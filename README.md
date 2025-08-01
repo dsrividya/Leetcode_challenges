@@ -154,6 +154,7 @@
 | [0412-fizz-buzz](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0434-number-of-segments-in-a-string) |
+| [0782-jewels-and-stones](https://github.com/dsrividya/Leetcode_challenges/tree/master/0782-jewels-and-stones) |
 | [0841-shortest-distance-to-a-character](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1044-find-common-characters) |
@@ -213,6 +214,7 @@
 | [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/dsrividya/Leetcode_challenges/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0782-jewels-and-stones](https://github.com/dsrividya/Leetcode_challenges/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/dsrividya/Leetcode_challenges/tree/master/0816-design-hashset) |
 | [1044-find-common-characters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1044-find-common-characters) |
 ## Greedy
