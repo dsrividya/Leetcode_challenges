@@ -62,13 +62,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
-## Simulation
-|  |
-| ------- |
-| [0258-add-digits](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0258-add-digits) |
-| [0412-fizz-buzz](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0412-fizz-buzz) |
-| [0415-add-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0415-add-strings) |
-| [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
+
 
 ## Sorting
 |  |
@@ -107,6 +101,7 @@
 | [0009-palindrome-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/dsrividya/Leetcode_challenges/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0204-count-primes) |
@@ -146,6 +141,7 @@
 | [0020-valid-parentheses](https://github.com/dsrividya/Leetcode_challenges/tree/master/0020-valid-parentheses) |
 | [0020-valid-parentheses](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/dsrividya/Leetcode_challenges/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
@@ -278,4 +274,22 @@
 | [0543-diameter-of-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0783-search-in-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/dsrividya/Leetcode_challenges/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0287-find-the-duplicate-number) |
+| [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/dsrividya/Leetcode_challenges/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0415-add-strings) |
+| [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
