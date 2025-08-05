@@ -105,6 +105,7 @@
 | [0367-valid-perfect-square](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
