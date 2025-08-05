@@ -78,11 +78,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0190-reverse-bits) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0783-search-in-a-binary-search-tree) |
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -287,4 +283,10 @@
 | [0412-fizz-buzz](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0783-search-in-a-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
