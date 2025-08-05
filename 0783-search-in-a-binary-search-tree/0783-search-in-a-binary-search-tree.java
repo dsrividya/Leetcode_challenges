@@ -12,18 +12,23 @@
  *         this.right = right;
  *     }
  * }
- */
+
+
+*/
+
 class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
-        // Base case: null node or found the node with the given value
+        // Base case: root is null or root is the value we're looking for
         if (root == null || root.val == val) {
             return root;
         }
 
-        // If the value is less than current node, search in the left subtree
+        // If val is less than root's value, search in the left subtree
         if (val < root.val) {
             return searchBST(root.left, val);
-        } else { // Else search in the right subtree
+        } 
+        // If val is greater than root's value, search in the right subtree
+        else {
             return searchBST(root.right, val);
         }
     }
