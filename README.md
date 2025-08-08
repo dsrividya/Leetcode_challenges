@@ -154,6 +154,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0234-palindrome-linked-list) |
+| [0933-increasing-order-search-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0933-increasing-order-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -252,6 +254,7 @@
 | [0226-invert-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0572-subtree-of-another-tree) |
+| [0933-increasing-order-search-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0933-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -266,6 +269,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0933-increasing-order-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -291,4 +295,5 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0783-search-in-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0933-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
