@@ -142,6 +142,7 @@
 | [0551-student-attendance-record-i](https://github.com/dsrividya/Leetcode_challenges/tree/master/0551-student-attendance-record-i) |
 | [0782-jewels-and-stones](https://github.com/dsrividya/Leetcode_challenges/tree/master/0782-jewels-and-stones) |
 | [0841-shortest-distance-to-a-character](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0841-shortest-distance-to-a-character) |
+| [0889-buddy-strings](https://github.com/dsrividya/Leetcode_challenges/tree/master/0889-buddy-strings) |
 | [0953-reverse-only-letters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1044-find-common-characters) |
 | [1894-merge-strings-alternately](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1894-merge-strings-alternately) |
@@ -205,6 +206,7 @@
 | [0697-degree-of-an-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/dsrividya/Leetcode_challenges/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/dsrividya/Leetcode_challenges/tree/master/0816-design-hashset) |
+| [0889-buddy-strings](https://github.com/dsrividya/Leetcode_challenges/tree/master/0889-buddy-strings) |
 | [1044-find-common-characters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1044-find-common-characters) |
 ## Greedy
 |  |
