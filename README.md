@@ -186,6 +186,7 @@
 | [0816-design-hashset](https://github.com/dsrividya/Leetcode_challenges/tree/master/0816-design-hashset) |
 | [0841-shortest-distance-to-a-character](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/dsrividya/Leetcode_challenges/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0978-valid-mountain-array) |
@@ -212,6 +213,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/dsrividya/Leetcode_challenges/tree/master/0409-longest-palindrome) |
+| [0890-lemonade-change](https://github.com/dsrividya/Leetcode_challenges/tree/master/0890-lemonade-change) |
 ## Linked List
 |  |
 | ------- |
