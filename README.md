@@ -181,6 +181,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/0697-degree-of-an-array) |
+| [0724-find-pivot-index](https://github.com/dsrividya/Leetcode_challenges/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0747-min-cost-climbing-stairs) |
 | [0816-design-hashset](https://github.com/dsrividya/Leetcode_challenges/tree/master/0816-design-hashset) |
@@ -300,4 +301,8 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0783-search-in-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0933-increasing-order-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/dsrividya/Leetcode_challenges/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
