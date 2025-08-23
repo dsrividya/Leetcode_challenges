@@ -104,6 +104,7 @@
 | [0507-perfect-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/dsrividya/Leetcode_challenges/tree/master/1086-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0392-is-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/dsrividya/Leetcode_challenges/tree/master/1086-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -305,4 +307,12 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/dsrividya/Leetcode_challenges/tree/master/0724-find-pivot-index) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/dsrividya/Leetcode_challenges/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/dsrividya/Leetcode_challenges/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
