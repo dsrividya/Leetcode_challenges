@@ -14,24 +14,23 @@
  * }
  */
 class Solution {
-    private int diameter = 0; // To keep track of the maximum diameter found
+    private int maxDiameter = 0;
 
     public int diameterOfBinaryTree(TreeNode root) {
         depth(root);
-        return diameter;
+        return maxDiameter;
     }
 
-    // Helper method to compute depth and update diameter
     private int depth(TreeNode node) {
         if (node == null) return 0;
 
         int left = depth(node.left);
         int right = depth(node.right);
 
-        // Update diameter if the path through current node is longer
-        diameter = Math.max(diameter, left + right);
+        // Diameter at this node = left depth + right depth
+        maxDiameter = Math.max(maxDiameter, left + right);
 
-        // Return height of the current node
-        return Math.max(left, right) + 1;
+        // Return height of subtree
+        return 1 + Math.max(left, right);
     }
 }
