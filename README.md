@@ -24,27 +24,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0745-find-smallest-letter-greater-than-target) |
 
 
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0061-rotate-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0061-rotate-list) |
-| [0141-linked-list-cycle](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0141-linked-list-cycle) |
-| [0160-intersection-of-two-linked-lists](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0160-intersection-of-two-linked-lists) |
-| [0189-rotate-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0189-rotate-array) |
-| [0202-happy-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0202-happy-number) |
-| [0234-palindrome-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0234-palindrome-linked-list) |
-| [0287-find-the-duplicate-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0287-find-the-duplicate-number) |
-| [0345-reverse-vowels-of-a-string](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0345-reverse-vowels-of-a-string) |
-| [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
-| [0392-is-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0392-is-subsequence) |
-| [0841-shortest-distance-to-a-character](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0841-shortest-distance-to-a-character) |
-| [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
-| [0908-middle-of-the-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0908-middle-of-the-linked-list) |
-| [0941-sort-array-by-parity](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0941-sort-array-by-parity) |
-| [0953-reverse-only-letters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0953-reverse-only-letters) |
-| [1019-squares-of-a-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1019-squares-of-a-sorted-array) |
-| [1894-merge-strings-alternately](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1894-merge-strings-alternately) |
+
 
 
 
@@ -317,4 +297,26 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/dsrividya/Leetcode_challenges/tree/master/1086-divisor-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/dsrividya/Leetcode_challenges/tree/master/0141-linked-list-cycle) |
+| [0141-linked-list-cycle](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0392-is-subsequence) |
+| [0841-shortest-distance-to-a-character](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0841-shortest-distance-to-a-character) |
+| [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
+| [0908-middle-of-the-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0941-sort-array-by-parity) |
+| [0953-reverse-only-letters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0953-reverse-only-letters) |
+| [1019-squares-of-a-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
