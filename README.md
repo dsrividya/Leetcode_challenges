@@ -2,12 +2,7 @@
 
 
 
-## Breadth-First Search
-|  |
-| ------- |
-| [0100-same-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0100-same-tree) |
-| [0112-path-sum](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0112-path-sum) |
-| [0226-invert-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0226-invert-binary-tree) |
+
 
 
 ## Binary Search
@@ -322,4 +317,11 @@
 | [0953-reverse-only-letters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1894-merge-strings-alternately) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0100-same-tree) |
+| [0100-same-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
