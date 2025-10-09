@@ -5,25 +5,25 @@ class Solution {
         Stack<Character> stack = new Stack<>();
 
         for (char ch : s.toCharArray()) {
-            // Push opening brackets
+        
             if (ch == '(' || ch == '{' || ch == '[') {
                 stack.push(ch);
             }
-            // Handle closing brackets
+     
             else {
-                if (stack.isEmpty()) return false; // Nothing to match
+                if (stack.isEmpty()) return false; 
                 char top = stack.peek();
                 if ((ch == ')' && top == '(') ||
                     (ch == '}' && top == '{') ||
                     (ch == ']' && top == '[')) {
-                    stack.pop(); // Match found
+                    stack.pop(); 
                 } else {
-                    return false; // Mismatch
+                    return false; 
                 }
             }
         }
 
-        return stack.isEmpty(); // All matched
+        return stack.isEmpty();
     }
 }
 
