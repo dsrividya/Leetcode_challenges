@@ -275,6 +275,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/dsrividya/Leetcode_challenges/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/dsrividya/Leetcode_challenges/tree/master/0278-first-bad-version) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0783-search-in-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0933-increasing-order-search-tree) |
@@ -326,4 +327,8 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0190-reverse-bits) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/dsrividya/Leetcode_challenges/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
