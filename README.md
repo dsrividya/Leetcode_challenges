@@ -31,15 +31,7 @@
 | [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
 
 
-## Sorting
-|  |
-| ------- |
-| [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
-| [0414-third-maximum-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0414-third-maximum-number) |
-| [0506-relative-ranks](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0506-relative-ranks) |
-| [0628-maximum-product-of-three-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0628-maximum-product-of-three-numbers) |
-| [0941-sort-array-by-parity](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0941-sort-array-by-parity) |
-| [1019-squares-of-a-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1019-squares-of-a-sorted-array) |
+
 ## Matrix
 |  |
 | ------- |
@@ -106,6 +98,7 @@
 | [0013-roman-to-integer](https://github.com/dsrividya/Leetcode_challenges/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/dsrividya/Leetcode_challenges/tree/master/0020-valid-parentheses) |
 | [0020-valid-parentheses](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/dsrividya/Leetcode_challenges/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dsrividya/Leetcode_challenges/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0205-isomorphic-strings) |
@@ -141,6 +134,7 @@
 | [0027-remove-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/dsrividya/Leetcode_challenges/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0118-pascals-triangle) |
@@ -176,6 +170,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/dsrividya/Leetcode_challenges/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/dsrividya/Leetcode_challenges/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0202-happy-number) |
@@ -337,4 +332,14 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/dsrividya/Leetcode_challenges/tree/master/0278-first-bad-version) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/dsrividya/Leetcode_challenges/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0941-sort-array-by-parity](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
