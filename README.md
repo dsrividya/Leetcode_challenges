@@ -136,6 +136,7 @@
 | [0035-search-insert-position](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/dsrividya/Leetcode_challenges/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0136-single-number) |
@@ -298,6 +299,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/dsrividya/Leetcode_challenges/tree/master/0141-linked-list-cycle) |
 | [0141-linked-list-cycle](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0160-intersection-of-two-linked-lists) |
@@ -336,6 +338,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/dsrividya/Leetcode_challenges/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0506-relative-ranks) |
