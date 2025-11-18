@@ -25,10 +25,7 @@
 
 
 
-## Counting
-|  |
-| ------- |
-| [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
+
 
 
 
@@ -142,6 +139,7 @@
 | [0136-single-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/dsrividya/Leetcode_challenges/tree/master/0228-summary-ranges) |
@@ -174,6 +172,7 @@
 | [0049-group-anagrams](https://github.com/dsrividya/Leetcode_challenges/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
@@ -329,6 +328,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0190-reverse-bits) |
 ## Interactive
 |  |
@@ -339,10 +339,16 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/dsrividya/Leetcode_challenges/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1019-squares-of-a-sorted-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
