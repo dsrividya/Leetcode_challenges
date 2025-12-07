@@ -123,6 +123,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/dsrividya/Leetcode_challenges/tree/master/0496-next-greater-element-i) |
 | [0933-increasing-order-search-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0933-increasing-order-search-tree) |
 ## Array
 |  |
@@ -149,6 +150,7 @@
 | [0414-third-maximum-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/dsrividya/Leetcode_challenges/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -180,6 +182,7 @@
 | [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/dsrividya/Leetcode_challenges/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/dsrividya/Leetcode_challenges/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/dsrividya/Leetcode_challenges/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/dsrividya/Leetcode_challenges/tree/master/0816-design-hashset) |
@@ -357,4 +360,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/dsrividya/Leetcode_challenges/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
