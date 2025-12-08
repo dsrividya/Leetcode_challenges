@@ -23,8 +23,8 @@ class Solution {
     private void helper(TreeNode root, List<Integer> result) {
         if (root == null) return;
 
-        helper(root.left, result);  // Visit left subtree
-        result.add(root.val);       // Visit node
-        helper(root.right, result); // Visit right subtree
+        helper(root.left, result); 
+        result.add(root.val);       
+        helper(root.right, result); 
     }
 }
