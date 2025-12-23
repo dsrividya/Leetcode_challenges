@@ -102,6 +102,7 @@
 | [0344-reverse-string](https://github.com/dsrividya/Leetcode_challenges/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/dsrividya/Leetcode_challenges/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/dsrividya/Leetcode_challenges/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0412-fizz-buzz) |
@@ -180,6 +181,7 @@
 | [0205-isomorphic-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/dsrividya/Leetcode_challenges/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/dsrividya/Leetcode_challenges/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/dsrividya/Leetcode_challenges/tree/master/0496-next-greater-element-i) |
@@ -267,6 +269,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/dsrividya/Leetcode_challenges/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/dsrividya/Leetcode_challenges/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
 ## Simulation
@@ -350,6 +353,7 @@
 | [0088-merge-sorted-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/dsrividya/Leetcode_challenges/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0628-maximum-product-of-three-numbers) |
