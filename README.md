@@ -123,6 +123,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/dsrividya/Leetcode_challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/dsrividya/Leetcode_challenges/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/dsrividya/Leetcode_challenges/tree/master/0496-next-greater-element-i) |
 | [0933-increasing-order-search-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0933-increasing-order-search-tree) |
@@ -210,6 +211,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/dsrividya/Leetcode_challenges/tree/master/0232-implement-queue-using-stacks) |
 | [0816-design-hashset](https://github.com/dsrividya/Leetcode_challenges/tree/master/0816-design-hashset) |
 ## Hash Function
 |  |
@@ -368,4 +370,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dsrividya/Leetcode_challenges/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/dsrividya/Leetcode_challenges/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
