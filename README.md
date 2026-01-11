@@ -109,6 +109,7 @@
 | [0412-fizz-buzz](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/dsrividya/Leetcode_challenges/tree/master/0459-repeated-substring-pattern) |
 | [0551-student-attendance-record-i](https://github.com/dsrividya/Leetcode_challenges/tree/master/0551-student-attendance-record-i) |
 | [0782-jewels-and-stones](https://github.com/dsrividya/Leetcode_challenges/tree/master/0782-jewels-and-stones) |
 | [0841-shortest-distance-to-a-character](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0841-shortest-distance-to-a-character) |
@@ -375,4 +376,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/dsrividya/Leetcode_challenges/tree/master/0232-implement-queue-using-stacks) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/dsrividya/Leetcode_challenges/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
