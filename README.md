@@ -149,6 +149,7 @@
 | [0189-rotate-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/dsrividya/Leetcode_challenges/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/dsrividya/Leetcode_challenges/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0414-third-maximum-number) |
@@ -319,6 +320,7 @@
 | [0189-rotate-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/dsrividya/Leetcode_challenges/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/dsrividya/Leetcode_challenges/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0345-reverse-vowels-of-a-string) |
