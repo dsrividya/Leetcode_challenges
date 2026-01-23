@@ -60,6 +60,7 @@
 | [0263-ugly-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dsrividya/Leetcode_challenges/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0415-add-strings) |
@@ -84,6 +85,7 @@
 | [0231-power-of-two](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dsrividya/Leetcode_challenges/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -275,6 +277,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/dsrividya/Leetcode_challenges/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/dsrividya/Leetcode_challenges/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/dsrividya/Leetcode_challenges/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
