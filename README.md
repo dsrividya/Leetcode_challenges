@@ -107,6 +107,7 @@
 | [0344-reverse-string](https://github.com/dsrividya/Leetcode_challenges/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/dsrividya/Leetcode_challenges/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/dsrividya/Leetcode_challenges/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/dsrividya/Leetcode_challenges/tree/master/0409-longest-palindrome) |
@@ -192,6 +193,7 @@
 | [0205-isomorphic-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/dsrividya/Leetcode_challenges/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/dsrividya/Leetcode_challenges/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/dsrividya/Leetcode_challenges/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -385,6 +387,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/dsrividya/Leetcode_challenges/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -393,6 +396,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/dsrividya/Leetcode_challenges/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/dsrividya/Leetcode_challenges/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
 | ------- |
