@@ -409,4 +409,8 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/1122-relative-sort-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/dsrividya/Leetcode_challenges/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
