@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/dsrividya/Leetcode_challenges/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/1013-fibonacci-number) |
@@ -285,6 +286,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/dsrividya/Leetcode_challenges/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/dsrividya/Leetcode_challenges/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/dsrividya/Leetcode_challenges/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/dsrividya/Leetcode_challenges/tree/master/0476-number-complement) |
