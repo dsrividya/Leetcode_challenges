@@ -156,6 +156,7 @@
 | [0189-rotate-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/dsrividya/Leetcode_challenges/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/dsrividya/Leetcode_challenges/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/dsrividya/Leetcode_challenges/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
@@ -192,6 +193,7 @@
 | [0169-majority-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/dsrividya/Leetcode_challenges/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dsrividya/Leetcode_challenges/tree/master/0387-first-unique-character-in-a-string) |
@@ -376,6 +378,7 @@
 | [0075-sort-colors](https://github.com/dsrividya/Leetcode_challenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/dsrividya/Leetcode_challenges/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/dsrividya/Leetcode_challenges/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0414-third-maximum-number) |
@@ -389,6 +392,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/dsrividya/Leetcode_challenges/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dsrividya/Leetcode_challenges/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
