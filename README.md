@@ -220,6 +220,7 @@
 | [0061-rotate-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dsrividya/Leetcode_challenges/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/dsrividya/Leetcode_challenges/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/dsrividya/Leetcode_challenges/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0234-palindrome-linked-list) |
@@ -335,6 +336,7 @@
 | [0125-valid-palindrome](https://github.com/dsrividya/Leetcode_challenges/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dsrividya/Leetcode_challenges/tree/master/0141-linked-list-cycle) |
 | [0141-linked-list-cycle](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/dsrividya/Leetcode_challenges/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0202-happy-number) |
@@ -365,6 +367,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/dsrividya/Leetcode_challenges/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0190-reverse-bits) |
 ## Interactive
@@ -377,6 +380,7 @@
 | [0049-group-anagrams](https://github.com/dsrividya/Leetcode_challenges/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/dsrividya/Leetcode_challenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/dsrividya/Leetcode_challenges/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dsrividya/Leetcode_challenges/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
@@ -420,4 +424,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/dsrividya/Leetcode_challenges/tree/master/0258-add-digits) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/dsrividya/Leetcode_challenges/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
