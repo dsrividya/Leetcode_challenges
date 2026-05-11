@@ -182,6 +182,7 @@
 | [1044-find-common-characters](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/1044-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/1122-relative-sort-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dsrividya/Leetcode_challenges/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2553-separate-the-digits-in-an-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -302,6 +303,7 @@
 | [0412-fizz-buzz](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
+| [2553-separate-the-digits-in-an-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/2553-separate-the-digits-in-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
