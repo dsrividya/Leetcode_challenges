@@ -74,6 +74,7 @@
 | [0118-pascals-triangle](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/dsrividya/Leetcode_challenges/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/dsrividya/Leetcode_challenges/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/dsrividya/Leetcode_challenges/tree/master/1086-divisor-game) |
@@ -170,6 +171,7 @@
 | [0697-degree-of-an-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/dsrividya/Leetcode_challenges/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/dsrividya/Leetcode_challenges/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0747-min-cost-climbing-stairs) |
 | [0816-design-hashset](https://github.com/dsrividya/Leetcode_challenges/tree/master/0816-design-hashset) |
 | [0841-shortest-distance-to-a-character](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0841-shortest-distance-to-a-character) |
