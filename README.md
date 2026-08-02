@@ -143,6 +143,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/dsrividya/Leetcode_challenges/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -218,6 +219,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dsrividya/Leetcode_challenges/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/dsrividya/Leetcode_challenges/tree/master/0409-longest-palindrome) |
 | [0890-lemonade-change](https://github.com/dsrividya/Leetcode_challenges/tree/master/0890-lemonade-change) |
 ## Linked List
@@ -339,6 +341,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dsrividya/Leetcode_challenges/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0061-rotate-list) |
