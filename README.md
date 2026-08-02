@@ -66,6 +66,7 @@
 | [0415-add-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/dsrividya/Leetcode_challenges/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/dsrividya/Leetcode_challenges/tree/master/1086-divisor-game) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@
 | [0392-is-subsequence](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/dsrividya/Leetcode_challenges/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0747-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/dsrividya/Leetcode_challenges/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/dsrividya/Leetcode_challenges/tree/master/1086-divisor-game) |
 ## Recursion
@@ -177,6 +179,7 @@
 | [0816-design-hashset](https://github.com/dsrividya/Leetcode_challenges/tree/master/0816-design-hashset) |
 | [0841-shortest-distance-to-a-character](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0861-flipping-an-image) |
+| [0877-stone-game](https://github.com/dsrividya/Leetcode_challenges/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/dsrividya/Leetcode_challenges/tree/master/0890-lemonade-change) |
 | [0896-monotonic-array](https://github.com/dsrividya/Leetcode_challenges/tree/master/0896-monotonic-array) |
 | [0932-monotonic-array](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0932-monotonic-array) |
@@ -331,6 +334,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/dsrividya/Leetcode_challenges/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/dsrividya/Leetcode_challenges/tree/master/1086-divisor-game) |
 ## Two Pointers
 |  |
