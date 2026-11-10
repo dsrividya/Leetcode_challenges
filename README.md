@@ -59,6 +59,7 @@
 | [0231-power-of-two](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dsrividya/Leetcode_challenges/tree/master/0342-power-of-four) |
@@ -165,6 +166,7 @@
 | [0204-count-primes](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/dsrividya/Leetcode_challenges/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/dsrividya/Leetcode_challenges/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dsrividya/Leetcode_challenges/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
@@ -206,6 +208,7 @@
 | [0202-happy-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/dsrividya/Leetcode_challenges/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dsrividya/Leetcode_challenges/tree/master/0387-first-unique-character-in-a-string) |
@@ -304,6 +307,7 @@
 | [0190-reverse-bits](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/dsrividya/Leetcode_challenges/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/dsrividya/Leetcode_challenges/tree/master/0342-power-of-four) |
@@ -327,6 +331,7 @@
 | [0069-sqrtx](https://github.com/dsrividya/Leetcode_challenges/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/dsrividya/Leetcode_challenges/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/dsrividya/Leetcode_challenges/tree/master/0367-valid-perfect-square) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dsrividya/Leetcode_challenges/tree/master/0783-search-in-a-binary-search-tree) |
@@ -407,6 +412,7 @@
 | [0148-sort-list](https://github.com/dsrividya/Leetcode_challenges/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dsrividya/Leetcode_challenges/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dsrividya/Leetcode_challenges/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/dsrividya/Leetcode_challenges/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/dsrividya/Leetcode_challenges/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/dsrividya/https-github.com-dsrividya-simplecodes/tree/master/0414-third-maximum-number) |
